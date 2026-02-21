@@ -5,7 +5,7 @@ Discord: https://discord.com/invite/Gr9sPP2
 Patreon: https://www.patreon.com/c/ItsMeBro
 
 
-Dependecies: Plugins
+Dependecies: Plugins</br>
 Advanced Sessions
 Advanced Steam Sessions
 Steam Online Subsystem
