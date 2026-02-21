@@ -14,7 +14,7 @@ Steam Sockets
 How to use:
 
 1. Download code
-2. Paste contents inside your Content Folder (Keep folder Steam as a root inside the content folder, so you don't have to reset locations for images/widgets used in the system)
+2. Paste Steam folder inside your content folder.
 3. Add SteamSeshComp to your gameplay controller (Example: BP_FirstPersonController)
 4. On Begin Play, Inside the controller, set controller ref for the component and initialize the component.
 
