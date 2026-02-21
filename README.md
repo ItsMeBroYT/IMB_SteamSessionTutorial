@@ -1,14 +1,14 @@
 A Steam Session tutorial files by ItsMeBro using Advanced Steam Sessions plugins
 
-Youtube: https://www.youtube.com/@ItsMeBro
-Discord: https://discord.com/invite/Gr9sPP2
+Youtube: https://www.youtube.com/@ItsMeBro</br>
+Discord: https://discord.com/invite/Gr9sPP2</br>
 Patreon: https://www.patreon.com/c/ItsMeBro
 
 
 Dependecies: Plugins</br>
-Advanced Sessions
-Advanced Steam Sessions
-Steam Online Subsystem
+Advanced Sessions</br>
+Advanced Steam Sessions</br>
+Steam Online Subsystem</br>
 Steam Sockets
 
 How to use:
