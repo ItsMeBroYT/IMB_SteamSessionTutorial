@@ -24,18 +24,18 @@ In the image you can see steps 3 and 4
 
 <img width="1897" height="868" alt="image" src="https://github.com/user-attachments/assets/e525b0d0-8ef4-4958-8d67-51a8a5b3e876" />
 
+</br></br>
+[/Script/Engine.GameEngine]</br>
+!NetDriverDefinitions=ClearArray</br>
++NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="/Script/SteamSockets.SteamSocketsNetDriver",DriverClassNameFallback="/Script/SteamSockets.SteamNetSocketsNetDriver")</br>
 
-[/Script/Engine.GameEngine]
-!NetDriverDefinitions=ClearArray
-+NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="/Script/SteamSockets.SteamSocketsNetDriver",DriverClassNameFallback="/Script/SteamSockets.SteamNetSocketsNetDriver")
+[OnlineSubsystem]</br>
+DefaultPlatformService=Steam</br>
 
-[OnlineSubsystem]
-DefaultPlatformService=Steam
+[OnlineSubsystemSteam]</br>
+bEnabled=true</br>
+SteamDevAppId=480</br>
+bInitServerOnClient=true</br>
 
-[OnlineSubsystemSteam]
-bEnabled=true
-SteamDevAppId=480
-bInitServerOnClient=true
-
-[/Script/OnlineSubsystemSteam.SteamNetDriver]
+[/Script/OnlineSubsystemSteam.SteamNetDriver]</br>
 NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"
