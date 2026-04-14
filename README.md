@@ -20,8 +20,7 @@ How to use:
 5. Add SteamSeshComp to your gameplay controller (Example: BP_FirstPersonController)
 6. On Begin Play, Inside the controller, set controller ref for the component and initialize the component.
 
-In the image you can see steps 3 and 4
-
+In the image you can see steps 5 and 6
 <img width="1897" height="868" alt="image" src="https://github.com/user-attachments/assets/e525b0d0-8ef4-4958-8d67-51a8a5b3e876" />
 
 </br></br>
