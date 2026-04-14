@@ -8,6 +8,7 @@ Patreon: https://www.patreon.com/c/ItsMeBro
 Dependencies: Plugins</br>
 Advanced Sessions</br>
 Advanced Steam Sessions</br>
+https://vreue4.com/advanced-sessions-binaries</br>
 Steam Online Subsystem</br>
 Steam Sockets
 
